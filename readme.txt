@@ -14,6 +14,8 @@ _______                                    .---.
                                                                                                             
 Version 1.0 Beta
 
+A game for Microsoft Windows written in Visual Basic 6.0.
+
 Designed, programmed & produced by Angelos Mavros aka Open Source.
 
 https://www.djopensource.com
